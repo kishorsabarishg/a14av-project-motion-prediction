@@ -16,4 +16,6 @@ Good Predictions
 | ![](good1.png) | ![](good5.png) |
 
 Bad Predictions
+| | |
+|:-------------------------:|:-------------------------:|
 | ![](bad3.png) | ![](bad4.png) |
