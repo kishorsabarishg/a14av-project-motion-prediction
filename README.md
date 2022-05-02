@@ -7,9 +7,13 @@ Instructor: Carlos Morato
 Submitted by: Aditya Jagani and Kishor Sabarish Ganapathy Subramanian
 
 
-Some sample results are shown below
+Some sample results are shown below:
+
+Good Predictions
 
 | | |
 |:-------------------------:|:-------------------------:|
 | ![](good1.png) | ![](good5.png) |
+
+Bad Predictions
 | ![](bad3.png) | ![](bad4.png) |
