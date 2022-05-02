@@ -23,4 +23,4 @@ Bad Predictions
 The MSE Loss for 6000 iterations:
 | | |
 |:-------------------------:|:-------------------------:|
-| ![](download (6).png) |
+| ![](loss.png) |
